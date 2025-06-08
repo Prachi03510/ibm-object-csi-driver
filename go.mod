@@ -4,8 +4,8 @@ go 1.24.1
 
 require (
 	github.com/IBM/go-sdk-core/v5 v5.19.0
-	github.com/IBM/ibm-cos-sdk-go v1.12.2
-	github.com/IBM/ibm-cos-sdk-go-config/v2 v2.2.2
+	github.com/IBM/ibm-cos-sdk-go v1.12.0
+	github.com/IBM/ibm-cos-sdk-go-config/v2 v2.1.1
 	github.com/IBM/ibm-csi-common v1.1.19
 	github.com/IBM/ibmcloud-volume-interface v1.2.20
 	github.com/aws/aws-sdk-go v1.55.6
@@ -15,8 +15,8 @@ require (
 	github.com/mitchellh/go-ps v1.0.0
 	github.com/onsi/ginkgo/v2 v2.22.1
 	github.com/onsi/gomega v1.36.2
-	github.com/prometheus/client_golang v1.21.1
-	github.com/stretchr/testify v1.10.0
+	github.com/prometheus/client_golang v1.20.5
+	github.com/stretchr/testify v1.9.0
 	go.uber.org/zap v1.27.0
 	golang.org/x/net v0.38.0
 	google.golang.org/grpc v1.65.0
@@ -111,7 +111,7 @@ require (
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 // indirect
 	github.com/prometheus/client_model v0.6.1 // indirect
-	github.com/prometheus/common v0.62.0 // indirect
+	github.com/prometheus/common v0.60.1 // indirect
 	github.com/prometheus/procfs v0.15.1 // indirect
 	github.com/sirupsen/logrus v1.9.3 // indirect
 	github.com/spf13/cobra v1.8.1 // indirect
